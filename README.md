@@ -10,4 +10,4 @@ This AI Poem Assistant tool integrates the latest large language model with vari
 📌[project slide](https://docs.google.com/presentation/d/1fjuMK5i8XCHJL3TZ0mDNS2xU108QV9qdu3hl0Dw8EB8/edit?usp=sharing)
 
 # video
-📌[project video](https://docs.google.com/presentation/d/1fjuMK5i8XCHJL3TZ0mDNS2xU108QV9qdu3hl0Dw8EB8/edit?usp=sharing)
+📌[project video](https://www.youtube.com/watch?v=tM4EKXmQ5v0)
