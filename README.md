@@ -1,4 +1,4 @@
-# GenAI Stars-AI poem Assistant tool
+# GenAI Stars-AI Poem Assistant Tool
 This AI Poem Assistant tool integrates the latest large language model with various learning-enhancing features. By utilizing Retrieval-Augmented Generation (RAG) alike method, this tool can accurately answer Tang poetry questions that current popular large language models cannot. In addition to providing basic explanations and information about Tang poetry, the tool offers a range of functionalities, such as translation, free-form question input, audio file output, and context image generation. By leveraging the latest large language model to address tasks in specific knowledge domains and integrating different features into a single platform, it solves the difficulties faced by foreign students learning Tang poetry, accelerates language learning and cultural transmission. 
 
 # code file
